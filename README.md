@@ -1,11 +1,13 @@
 # Vizsgaremek2026
 
 Projekt fejlsztői:
+
 ```Székely Levente, Bankó Ádám```
 
+---
+
 # VendTrack – Okos Automata Hálózat és Készletmenedzsment Rendszer
-**Szakmai vizsgaremek összefoglaló dokumentáció**  
-*Szoftverfejlesztő és -tesztelő szakma*
+**Szakmai vizsgaremek összefoglaló dokumentáció**
 
 ---
 
